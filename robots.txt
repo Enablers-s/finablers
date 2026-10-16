@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://finablers.vercel.app/sitemap.xml
